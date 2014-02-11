@@ -1,0 +1,18 @@
+section{
+	height:1050px;
+	width:1000px;
+	border:20px solid black;
+
+}
+aside article{
+	height: 400px;
+	width:350px;
+	float:right;
+}
+
+ article{
+    height: 400px;
+	width:400px;
+	float:left;
+
+}
